@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Interfaces\\IUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp3\\Interfaces\\IUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Interfaces\\IABMC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp3\\Interfaces\\IABMC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Interfaces\\ICarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp3\\Interfaces\\ICarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Clases\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp3\\Clases\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Clases\\Carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp3\\Clases\\Carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Interfaces\\IID.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp3\\Interfaces\\IID.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Clases\\Carrera.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Clases\\Carrera.cs",
+              "ToolTip": "C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Clases\\Carrera.cs",
+              "RelativeToolTip": "ConsoleApp3\\Clases\\Carrera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:32:53.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Clases\\Usuario.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Clases\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Clases\\Usuario.cs",
+              "RelativeToolTip": "ConsoleApp3\\Clases\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:05:05.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICarrera.cs",
+              "DocumentMoniker": "C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Interfaces\\ICarrera.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Interfaces\\ICarrera.cs",
+              "ToolTip": "C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Interfaces\\ICarrera.cs",
+              "RelativeToolTip": "ConsoleApp3\\Interfaces\\ICarrera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:53:29.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IID.cs",
+              "DocumentMoniker": "C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Interfaces\\IID.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Interfaces\\IID.cs",
+              "ToolTip": "C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Interfaces\\IID.cs",
+              "RelativeToolTip": "ConsoleApp3\\Interfaces\\IID.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:52:23.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Interfaces\\IUsuario.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Interfaces\\IUsuario.cs",
+              "ToolTip": "C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Interfaces\\IUsuario.cs",
+              "RelativeToolTip": "ConsoleApp3\\Interfaces\\IUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:52:13.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IABMC.cs",
+              "DocumentMoniker": "C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Interfaces\\IABMC.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Interfaces\\IABMC.cs",
+              "ToolTip": "C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Interfaces\\IABMC.cs",
+              "RelativeToolTip": "ConsoleApp3\\Interfaces\\IABMC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:51:57.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\Nahuel\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:50:10.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
